@@ -1,5 +1,7 @@
 # <<-- Build With Us Mod guidelines (Revision 2)-->>
 
+Applies to all staff members!
+
 Notice: These guidelines are subject to change at any time! Please be sure to update on them every once in a while.
 
 ## **__1) General guidelines__**
