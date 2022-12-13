@@ -38,4 +38,4 @@ __2.6) Shulker bans:__ First offense - warn the player using `@warn`. Second off
 
 __2.7) Building menger sponges:__ First offense - warn the player using `@warn`. Second offense - add another warn, then temporarily ban the player using `@tempban` for at least a day. Third+ offenses: temporarily ban the player for at least a week.
 
-__2.8) Warning capacity:__ If a player has reached 3+ warnings, temporarily ban them for at least a week on each offense. 5+ offenses: ban the player for at least 3 weeks on each offense. 10 warnings: permanently ban the player.
+__2.8) Warning capacity:__ If a player has reached 3+ warnings, temporarily ban them for at least a week on each offense. 5+ warnings: ban the player for at least 3 weeks on each offense. 10 warnings: permanently ban the player.
