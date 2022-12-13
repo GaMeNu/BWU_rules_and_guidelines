@@ -12,11 +12,13 @@ __1.3) Over-punishment:__ Punishing players for little things or giving a punish
 
 __1.4) Inactivity:__ Being inactive for too long on the plot may result in you getting demoted.
 
-__1.5) Banlist/Warnlist flooding:__ Do not fill the banlist or the warnlist with unnecessary bans. For example, if you have banned a nonexistent player as a joke, be sure to unban them afterwards. Over-flooding the lists may result in you getting demoted.
+__1.5) Proper reasoning:__ Make sure to properly reason each ban, tempban, or warn you issue, otherwise you might get demoted.
 
-__1.6) Punishment alteration:__ You may go a little over or under the punishments specifically mentioned in section 2, but do not give too harsh or too weak punishments. These guidelines aren't meant to be followed one-to-one but rather to be flexible and give general directions of how to punish and on what.
+__1.6) Banlist/Warnlist flooding:__ Do not fill the banlist or the warnlist with unnecessary bans. For example, if you have banned a nonexistent player as a joke, be sure to unban them afterwards. Over-flooding the lists may result in you getting demoted.
 
-__1.7) Incapability to punish:__ If you have found a player breaking the rules but you are unable to give the proper punishment (for example: you are a JrMod and you saw a player griefing), warn the player using `@warn`, and ask on #:keyboard:staff-chat for a staff member with a higher rank than yours to ban the player, mentioning the player, the rule they broke, and providing proof they actually broke the rules.
+__1.7) Punishment alteration:__ You may go a little over or under the punishments specifically mentioned in section 2, but do not give too harsh or too weak punishments. These guidelines aren't meant to be followed one-to-one but rather to be flexible and give general directions of how to punish and on what.
+
+__1.8) Incapability to punish:__ If you have found a player breaking the rules but you are unable to give the proper punishment (for example: you are a JrMod and you saw a player griefing), warn the player using `@warn`, and ask on #:keyboard:staff-chat for a staff member with a higher rank than yours to ban the player, mentioning the player, the rule they broke, and providing proof they actually broke the rules.
 
 
 ## **__2) Proper actions and punishments__**
