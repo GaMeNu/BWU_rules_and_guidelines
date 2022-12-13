@@ -30,7 +30,7 @@ __2.4) Annoying players:__ First offense - warn the player using `@warn`. Second
 
 __2.5) Bug abuse:__ First offense - warn the player using `@warn`, then send the bug on #:keyboard:staff-chat. Second offense -  add another warn, then temporarily ban the player using `@tempban` for at least a day. Third+ offenses: temporarily ban the player for at least a week.
 
-__2.6) Shulker bans:__ First offense - warn the player using `@warn`. Second offense - add another warn, then temporarily ban the player using `@tempban` for at least a day. Third+ offenses: temporarily ban the player for at least a week.
+__2.6) Shulker bans:__ First offense - warn the player using `@warn`. Second offense - permanently ban the player using `@ban`
 
 __2.7) Building menger sponges:__ First offense - warn the player using `@warn`. Second offense - add another warn, then temporarily ban the player using `@tempban` for at least a day. Third+ offenses: temporarily ban the player for at least a week.
 
