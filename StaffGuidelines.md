@@ -24,9 +24,9 @@ __1.8) Incapability to punish:__ If you have found a player breaking the rules b
 
 
 ## **__2) Proper actions and punishments__**
-__2.1) Griefing:__ Freeze the player using `@freeze`, Clear their latest block changes using `@purge`, and permanently ban them with a proper reason using `@ban`
+__2.1) Griefing:__ Make sure the player is griefing and not clearing a griefed build to build their own build there, then freeze the player using `@freeze`, clear their latest block changes using `@purge`, and permanently ban them with a proper reason using `@ban`
 
-__2.2) NSFW/inappropriate builds:__ Freeze the player using `@freeze`, Clear their latest block changes using `@purge`, and permanently ban them with a proper reason using `@ban`
+__2.2) NSFW/inappropriate builds:__ Freeze the player using `@freeze`, clear their latest block changes using `@purge`, and permanently ban them with a proper reason using `@ban`
 
 __2.3) Lag machines/Noise machines:__ First offense - warn the player using `@warn`. Second offense - add another warn, then temporarily ban the player using `@tempban` for at least a day. Third+ offenses: temporarily ban the player for at least a week.
 
