@@ -8,7 +8,7 @@ Notice: These guidelines are subject to change at any time! Please be sure to up
 
 __1.1) Following the rules:__ Normal rules still apply to staff members! Be sure to follow the normal rules!
 
-__1.2) Staff abuse:__ Abusing your powers as staff member (for example: banning/kicking players without reason, using your powers to grief/annoy too much) may result in you getting demoted or banned from the plot.
+__1.2) Staff abuse:__ Abusing your powers as staff member (for example: banning/kicking players without a proper reason, using your powers to grief/annoy too much) may result in you getting demoted or banned from the plot.
 
 __1.3) Over-punishment:__ Punishing players for little things or giving a punishment which is a lot harder than the fitting punishment may result in you getting demoted. (See also Section 2: Proper actions and punishments).
 
