@@ -30,7 +30,7 @@ __2.2) NSFW/inappropriate builds:__ Freeze the player using `@freeze`, clear the
 
 __2.3) Lag machines/Noise machines:__ First offense - warn the player using `@warn`. Second offense - add another warn, then temporarily ban the player using `@tempban` for at least a day. Third+ offenses: temporarily ban the player for at least a week.
 
-__2.4) Annoying players:__ First offense - warn the player using `@warn`. Second offense - add another warn, then temporarily ban the player using `@tempban` for at least a day. Third+ offenses: temporarily ban the player for at least a week.
+__2.4) Annoying players:__ First offense - warn the player using `@warn`. Second offense - add another warn, then temporarily ban the player using `@tempban` for at least a day. Third+ offenses: temporarily ban the player for at least a week. Please note a difference between minor trolling, which is allowed to a certain extent, and being annoying. It is up to your judgement when a player is annoying.
 
 __2.5) Bug abuse:__ First offense - warn the player using `@warn`, then send the bug on #:keyboard:staff-chat. Second offense -  add another warn, then temporarily ban the player using `@tempban` for at least a day. Third+ offenses: temporarily ban the player for at least a week.
 
