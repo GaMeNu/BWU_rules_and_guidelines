@@ -14,7 +14,7 @@ __1.3) Over-punishment:__ Punishing players for little things or giving a punish
 
 __1.4) Inactivity:__ Being inactive for too long on the plot may result in you getting demoted.
 
-__1.5) Proper reasoning:__ Make sure to properly reason each ban, tempban, or warn you issue, otherwise you might get demoted.
+__1.5) Proper reasoning:__ Make sure to properly add a clear reason for each ban, tempban, or warn you issue, to prevent confusion and misunderstandings. Otherwise you might get demoted.
 
 __1.6) Banlist/Warnlist flooding:__ Do not fill the banlist or the warnlist with unnecessary bans. For example, if you have banned a nonexistent player as a joke, be sure to unban them afterwards. Over-flooding the lists may result in you getting demoted.
 
@@ -30,7 +30,7 @@ __2.2) NSFW/inappropriate builds:__ Freeze the player using `@freeze`, clear the
 
 __2.3) Lag machines/Noise machines:__ First offense - warn the player using `@warn`. Second offense - add another warn, then temporarily ban the player using `@tempban` for at least a day. Third+ offenses: temporarily ban the player for at least a week.
 
-__2.4) Annoying players:__ First offense - warn the player using `@warn`. Second offense - add another warn, then temporarily ban the player using `@tempban` for at least a day. Third+ offenses: temporarily ban the player for at least a week. Please note a difference between minor trolling, which is allowed to a certain extent, and being annoying. It is up to your judgement to decide when a player is annoying.
+__2.4) Annoying players:__ First offense - warn the player using `@warn`. Second offense - add another warn, then temporarily ban the player using `@tempban` for at least a day. Third+ offenses: temporarily ban the player for at least a week. Please note a difference between minor trolling, which is allowed to a certain extent, and being annoying. It is up to your judgement to decide when a player is being annoying, but please be reasonable (see also rule 1.3: Over-punishment)
 
 __2.5) Bug abuse:__ First offense - warn the player using `@warn`, then send the bug on #:keyboard:staff-chat. Second offense -  add another warn, then temporarily ban the player using `@tempban` for at least a day. Third+ offenses: temporarily ban the player for at least a week.
 
