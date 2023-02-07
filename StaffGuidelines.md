@@ -4,6 +4,8 @@ Applies to all staff members!
 
 Notice: These guidelines are subject to change at any time! Please be sure to update on them every once in a while.
 
+Author: GaMeNu
+
 ## **__1) General guidelines__**
 
 __1.1) Following the rules:__ Normal rules still apply to staff members! Be sure to follow the normal rules!
