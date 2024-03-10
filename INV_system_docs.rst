@@ -21,11 +21,17 @@ FINDING, RESERVING, AND CLEARING
 
 ``INV_findFreeSpace(result: var, slots: num)``
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Looks for the first available place that can store {slots}, and stores the output in {result}
+Looks for the first available place that can store {slots}, and stores the output index in {result}
 
 ``INV_rsvSpace(index: num, slots: num, reserverType: str)``
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Reserves a space at {index}, for {slots}, with the specified {reserverType}
+
+``INV_findAndReserve(index: var, size: num, reserverType: str)``
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Looks for the first available place that can store {size} slots, reserves it with the specified {reserverType}, and stores the control item's index in {index} 
+
+NOTE: This function is a combination of INV_findFreeSpace and INV_rsvSpace.
 
 ``INV_markAsFree(index: num)``
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -47,6 +53,10 @@ Returns a list of the items between {startIndex} and {endIndex} to {result}
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Sets the item at {index} to {item}
 
+``INV_setItemsAtIndex(items: item(s), index: num)``
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Adds all {items} in the list sequentially, one after another, starting with the first item at the spacified {index}
+
 ``INV_getItemTags(result: var, item: item)``
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Dumps an {item}' s tags to a dictionary, and stores it in {result}
@@ -58,6 +68,14 @@ Dumps an {item}' s tags to a dictionary, and stores it in {result}
 Sets an {item}' s {tags}, and stores the {result}
 
 **TIP:** This is useful for modifying Control Items
+
+``INV_getItemTagsAtIndex(result: var, index: num)``
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gets the item at {index}, and saves its tags to {result}
+
+``INV_setItemtagsAtIndex(tags: dict, index: num)``
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gets the item at {index}, and sets its {tags}
 
 REAL-WORLD VALUES
 =================
