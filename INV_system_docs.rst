@@ -77,6 +77,20 @@ Gets the item at {index}, and saves its tags to {result}
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Gets the item at {index}, and sets its {tags}
 
+``INV_getReserverItems(result: var, index: num)``
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gets all the items a reserver, that is in {index}, is reserving, and stores the {result}.
+
+EXAMPLE:
+++++++++
+::
+  
+        1  2     3  4  5  6  7  8
+  db : [G, R(5), A, B, C, D, E, F]
+  
+  INV_getReserverItems(items, 2) # items = [A, B, C, D, E]
+
+
 REAL-WORLD VALUES
 =================
 
